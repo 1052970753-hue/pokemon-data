@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-05-23",
+  "files": {
+    "pokemon_data": {
+      "version": 1,
+      "filename": "pokemon_data.json",
+      "size": 247843
+    },
+    "labels": {
+      "version": 1,
+      "filename": "labels.json",
+      "size": 2156
+    },
+    "classifier": {
+      "version": 1,
+      "filename": "pokemon_classifier.tflite",
+      "size": 5242880
+    }
+  }
+}
