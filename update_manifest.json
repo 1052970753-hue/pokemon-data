@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "release_date": "2026-05-23",
   "files": {
     "pokemon_data": {
-      "version": 2,
+      "version": 3,
       "filename": "pokemon_data.json",
-      "size": 595000
+      "size": 1097728
     },
     "labels": {
       "version": 1,
